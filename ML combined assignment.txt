@@ -1,0 +1,7 @@
+ML combined assignment is just a collection of the previous assignments which can be found in this folder it self...
+
+Q1. ML project
+Q2. NLP assignment
+Q3. ML clustering
+Q4. Data visualization assignment
+Q5. Time series assignment
