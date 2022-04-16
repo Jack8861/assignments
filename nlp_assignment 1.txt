@@ -1,0 +1,21 @@
+1. NLP stands for natural language processing. It deals with solving problems where understanding the meaning of the words, sentences is important
+
+2. NLP stands for Natural Lanuguage Processing.
+
+3.
+a. image captioning
+b. mom
+c. spelling corrector
+d. text summarization
+
+4. spaCy is an open-source software library for advanced natural language processing, 
+written in the programming languages Python and Cython. The library is published under the MIT
+ license and its main developers are Matthew Honnibal and Ines Montani, the founders of the software company Explosion.
+
+Better then nltk.
+
+
+5. NLTK can be used for many text operations like stemming, lemmatization, pos, chunking and Named Entity Recognition,
+ Frequency Distribution, etc,. it has many such uses.
+
+6. corpus, tokenize, stem, pos_tag, book, FreqDist, etc,.
